@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@monaco-editor/react": "^4.5.1",
+    "@react-dnd/invariant": "^4.0.2",
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
     "@types/react-dom": "18.2.7",
@@ -28,3 +29,4 @@
     "typescript": "5.1.6"
   }
 }
+
